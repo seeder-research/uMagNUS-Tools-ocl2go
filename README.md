@@ -1,4 +1,4 @@
-# uMagNUS-ocl2go
+# uMagNUS-Tools-ocl2go
 Generator of Go wrapper around OpenCL kernel for uMagNUS
 
 This program generates Go wrappers for opencl sources.

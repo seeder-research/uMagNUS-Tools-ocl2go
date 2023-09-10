@@ -1,6 +1,3 @@
-//go:build ignore
-// +build ignore
-
 // This program generates Go wrappers for opencl sources.
 // The opencl file should contain exactly one __kernel void.
 

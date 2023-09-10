@@ -6,4 +6,5 @@ require github.com/seeder-research/uMagNUS-Pkgs-util v0.0.2 // indirect
 
 retract (
   v0.0.1
+  v0.0.2
 )
